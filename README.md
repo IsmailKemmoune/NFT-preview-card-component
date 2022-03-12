@@ -19,7 +19,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Live Site URL: [Live site URL](https://qr-code-component-jet.vercel.app/)
+- Live Site URL: [Live site URL](https://nft-preview-card-component-rose.vercel.app/)
 
 ## My process
 
